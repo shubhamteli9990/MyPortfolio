@@ -94,6 +94,10 @@ footer {
     width: 250px;
     padding: 20px;
     text-align: center;
+    /* Yeh 3 lines add karein */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .contact-item img {
